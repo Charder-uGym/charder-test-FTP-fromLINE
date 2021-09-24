@@ -1,1 +1,1 @@
-# charder-test-FTP-fromLINE
+# copied from charder-test-bodyMeasureLINE
